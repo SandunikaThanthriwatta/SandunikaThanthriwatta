@@ -23,9 +23,12 @@
 <!--- snake -->
  
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="200" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://octodex.github.com/images/daftpunktocat-guy.gif)">
-</a>
+
+<!--- snake -->
+<div align="right" top="500" height="200" width="200">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
   <!--Intro start-->
   <ul>
