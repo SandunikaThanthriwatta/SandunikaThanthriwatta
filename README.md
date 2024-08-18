@@ -21,7 +21,7 @@
 </div>
 
 <!--- snake -->
-<div style="display: flex; gap: 20px;">
+<div style="display: flex;">
   <img align="right" top="50" height="200" width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" /></div>
 
   <div>
