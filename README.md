@@ -21,10 +21,8 @@
 </div>
 
 <!--- snake -->
-<div >
   <img align="right" top="0" height="200" width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" />
-</div>
-<div>
+
   <!--Intro start-->
   <ul>
     <li>👩‍🎓 I’m an undergraduate of <strong>Faculty of Engineering, University of Ruhuna</strong></li>
@@ -34,7 +32,7 @@
     <li>📫 Feel free to reach me out <strong>s.thanthriwatta07@gmail.com</strong></li>
   </ul>
   <!--Intro end-->
-</div>
+
 
 
 
