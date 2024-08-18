@@ -71,7 +71,8 @@
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,c,javascript,react,express,css,docker,aws,html,mongodb,mysql,nodejs,php,postman,qt,redux,tailwind,tensorflow,keras&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,c,csharp,javascript,react,express,css,docker,aws,html,mongodb,mysql,nodejs,php,postman,qt,redux,tailwind,tensorflow,keras,bootstrap,arduino,visualstudiocode,qt-designer,figma,matlab,pycharm,intellij,googlecolab,jupiternotebook,firebase,linux&perline=14" />
+
   </a>
 </p>
 
