@@ -20,7 +20,7 @@
   </ul>
 </div>
 
-<!--- snake -->
+
  
 
 
@@ -41,15 +41,8 @@
   </div>
 </div>
 
-
-
-
-
-
-
-
-
-<!--- stats & Trophy (start) -->
+<br>
+<!--- stats (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
