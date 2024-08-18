@@ -9,20 +9,12 @@
  
 </div>
 
-
-
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">Passionate Software Engineering Undergraduate | Code is my canvas</h2></summary>
   </ul>
 </div>
-
-
- 
-
 
 <!--- snake -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
