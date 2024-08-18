@@ -10,11 +10,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -25,19 +21,23 @@
 </div>
 
 
-<!--Intro start-->
-- 👩‍🎓 I’m an undergraduate of **Faculty of Engineering, University of Ruhuna**
+<!--- snake -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" />
 
-- 🚀 I’m actively polishing my **Full-Stack Development skills!** 🌟
+  <div>
+    <!--Intro start-->
+    <ul>
+      <li>👩‍🎓 I’m an undergraduate of <strong>Faculty of Engineering, University of Ruhuna</strong></li>
+      <li>🚀 I’m actively polishing my <strong>Full-Stack Development skills!</strong> 🌟</li>
+      <li>☁️ Enthusiast of <strong>Cloud Computing</strong> and <strong>Docker</strong>! 🐳</li>
+      <li>🤖 Skilled in <strong>Machine Learning</strong> and always exploring new horizons! 🌐</li>
+      <li>📫 Feel free to reach me out <strong>s.thanthriwatta07@gmail.com</strong></li>
+    </ul>
+    <!--Intro end-->
+  </div>
+</div>
 
-- ☁️ Enthusiast of **Cloud Computing** and **Docker**! 🐳
-
-- 🤖 Skilled in **Machine Learning** and always exploring new horizons! 🌐
-
-- 📫 Feel free to reach me out **s.thanthriwatta07@gmail.com**
-
-
-<!--Intro end-->
 
 
 
