@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sandunika</h1></summary>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
   </ul>
 </div>
 
@@ -92,20 +92,20 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sandunika-thanthriwatta?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/sandunika_thanthriwatta?igsh=emlpa3RvM3Nod2x4&utm_source=qr" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/sandunika-thanthriwatta?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
+<a href="https://www.facebook.com/sandunika.thanthriwatta.3?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
 
-  
+
 </p>
 
 
 <!--profile visit count-->
-<div align="center">
+<!--<div align="center">-->
   
-[![](https://visitcount.itsvg.in/api?id=SandunikaThanthriwatta&icon=3&color=6)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=SandunikaThanthriwatta&icon=3&color=6)](https://visitcount.itsvg.in)-->
   
-</div>
+<!--</div>-->
 
 
 <!--horizontal divider(gradiant)-->
