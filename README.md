@@ -27,7 +27,7 @@
 <!--- snake -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!--- <img align="right"; top="0"; height="200" width="300" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg" alt="snake" />-->
- <img align="right"; top="0"; height="100" width="100" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" />
+ <img align="right"; top="0"; height="200" width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" />
 
   <div>
     <!--Intro start-->
