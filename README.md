@@ -22,7 +22,7 @@
 
 <!--- snake -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img align="right" top="500" height="300" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" />
+  <img align="right" top="400" height="200" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" />
 
   <div>
     <!--Intro start-->
