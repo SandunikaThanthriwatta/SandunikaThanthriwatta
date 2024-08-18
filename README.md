@@ -4,9 +4,9 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc" align="center">
-  <ul align="center">
+ 
    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sandunika+Thanthriwatta!;" />
-  </ul>
+ 
 </div>
 
 
@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate Software Enginnering Undergraduate | Code is my canvas</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate Software Engineering Undergraduate | Code is my canvas</h2></summary>
   </ul>
 </div>
 
