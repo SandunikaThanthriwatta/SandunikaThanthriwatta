@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://octodex.github.com/images/daftpunktocat-guy.gif"
+  <img  width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif"
        alt="snake" /></a>
 </div>
 
