@@ -21,7 +21,11 @@
 </div>
 
 <!--- snake -->
-  <img align="right" top="-10" height="200" width="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="snake" />
+ 
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="200" width="200" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://octodex.github.com/images/daftpunktocat-guy.gif)">
+</a>
 
   <!--Intro start-->
   <ul>
