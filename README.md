@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc" align="center">
+<div id="user-content-toc" align="left">
  
    <img width="400" src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hello+There!+👋;+I'm+Sandunika!;" />
  
@@ -19,7 +19,7 @@
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Passionate Software Engineering Undergraduate | Code is my canvas</h2></summary>
   </ul>
 </div>
