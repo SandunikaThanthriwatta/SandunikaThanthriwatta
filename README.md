@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc" align="center">
  
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sandunika+Thanthriwatta!;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sandunika!;" />
  
 </div>
 
